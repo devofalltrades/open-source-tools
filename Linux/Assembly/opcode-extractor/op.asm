@@ -1,3 +1,5 @@
+; ELF-32 Bit compiled in a Kali 4.3.0 
+
 section .data
 hex	db	"\x"
 hexL	equ	$-hex
